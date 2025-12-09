@@ -1,4 +1,6 @@
 .Rproj.user
+.gitignore
+github.sh
 .Rhistory
 .RData
 .Ruserdata
